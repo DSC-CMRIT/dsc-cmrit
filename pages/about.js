@@ -1,12 +1,12 @@
 import React from "react";
 import Header from "../components/Header";
-import Placeholder from "../components/Placeholder";
+import AboutInfo from "../components/AboutInfo";
 
 const about = () => {
   return (
     <div>
       <Header />
-      <Placeholder />
+      <AboutInfo/>
     </div>
   );
 };

@@ -1,12 +1,12 @@
 import React from "react";
 import Header from "../components/Header";
-import Placeholder from "../components/Placeholder";
+import TeamInfo from "../components/TeamInfo";
 
 const team = () => {
   return (
     <div>
       <Header />
-      <Placeholder />
+      <TeamInfo />
     </div>
   );
 };

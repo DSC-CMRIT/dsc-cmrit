@@ -1,7 +1,7 @@
 import React from "react";
 const Goal = ({ goalImage, goalTitle, goalText }) => {
   return (
-    <div className="lg:mx-2 flex flex-col justify-between my-5 m-auto bg-purple-600 rounded-lg transition duration-500 ease-in transform hover:-translate-y-1 hover:scale-105">
+    <div className="lg:mx-2  flex  flex-col justify-between my-5 m-auto bg-purple-600 rounded-lg transition duration-500 ease-in transform hover:-translate-y-1 hover:scale-105">
       {/* <div className="w-full bg-black h-40">
         <img className="w-52 pt-4 h-40 mx-auto my-8 " src={goalImage} />
       </div> */}

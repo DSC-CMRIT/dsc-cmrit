@@ -26,7 +26,7 @@ const AboutInfo = () => {
         </div>
         {/* Goals starts */}
         <h1 className="text-5xl text-primary uppercase">Our Goals</h1>
-        <div className="flex justify-between items-stretch">
+        <div className="flex  flex-wrap md:flex-nowrap justify-between items-stretch">
           <Goal
             goalImage="/mission_edu.png"
             goalTitle="Education"

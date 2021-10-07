@@ -59,7 +59,7 @@ const HeroSection = () => {
           className="md:w-1/2 w-full block md:my-0 mx-auto my-4"
         />
       </div>
-      {/* <EventBanner name="Cloud Study Jam-1" date="3 October 2021" /> */}
+      <EventBanner name="GIT ready for LINUX" date="9 October 2021" />
     </>
   );
 };

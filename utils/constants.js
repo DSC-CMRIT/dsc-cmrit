@@ -11,12 +11,12 @@ export const COMMUNITY_LINKS = [
     color: "telegram",
     darkColor: "telegramDark",
   },
-  // {
-  //   href: "https://discord.gg/2pCRQNNTq5",
-  //   iconClass: "discord",
-  //   color: "discord",
-  //   darkColor: "discordDark",
-  // },
+  {
+    href: "https://discord.io/cmrit",
+    iconClass: "discord",
+    color: "discord",
+    darkColor: "discordDark",
+   },
   {
     href: "https://www.youtube.com/channel/UCnCH0DQtccx_7McXqaA_x6w",
     iconClass: "youtube",

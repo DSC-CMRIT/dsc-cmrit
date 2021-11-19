@@ -58,9 +58,9 @@ const HeroSection = () => {
           src="/dsc_gif.gif"
           className="md:w-1/2 w-full block md:my-0 mx-auto my-4"
         />
-      </div>
-      <EventBanner name="GIT ready for LINUX" date="9 October 2021" />
-    </>
+//       </div>
+//       <EventBanner name="GIT ready for LINUX" date="9 October 2021" />
+//     </>
   );
 };
 

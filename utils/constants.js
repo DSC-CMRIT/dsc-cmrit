@@ -1,30 +1,30 @@
 export const COMMUNITY_LINKS = [
   {
-    href: "https://chat.whatsapp.com/GlXCVD0zFAp9I0x67pt9vn",
+    href: "https://cmritgdsc.page.link/wa",
     iconClass: "whatsapp",
     color: "primary",
     darkColor: "primaryDark",
   },
   {
-    href: "https://t.me/dsccmrit",
+    href: "https://cmritgdsc.page.link/tg",
     iconClass: "telegram",
     color: "telegram",
     darkColor: "telegramDark",
   },
   {
-    href: "https://discord.io/cmrit",
+    href: "https://cmritgdsc.page.link/discord",
     iconClass: "discord",
     color: "discord",
     darkColor: "discordDark",
    },
   {
-    href: "https://www.youtube.com/channel/UCnCH0DQtccx_7McXqaA_x6w",
+    href: "https://cmritgdsc.page.link/yt",
     iconClass: "youtube",
     color: "youtube",
     darkColor: "youtubeDark",
   },
   {
-    href: "https://www.linkedin.com/company/google-developer-student-club-cmrit/",
+    href: "https://cmritgdsc.page.link/linkedin",
     iconClass: "linkedin",
     color: "linkedin",
     darkColor: "linkedinDark",

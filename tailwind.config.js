@@ -39,8 +39,7 @@ module.exports = {
         youtubeDark: "hsl(0,100%,40%)",
         gdscButton: "hsl(214, 82%, 51%)",
         gdscButtonDark: "hsl(214, 82%, 41%)",
-        icon:"#CAFECA",
-        tint:"#a08516"
+        
       },
     },
     boxShadow: {

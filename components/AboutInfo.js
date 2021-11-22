@@ -2,9 +2,9 @@ import React from "react";
 import Goal from "./Goal";
 const AboutInfo = () => {
   return (
-    <div className="fluid-container m-auto place-items-center mt-0  ">
-      <div className="justify-content rounded-lg px-4  py-2  my-10 m-auto text-center ">
-        <div className="justify-content bg-gray-800 p-5 w-100 ">
+    <div className="container m-auto place-items-center mt-0  ">
+      <div className="rounded-lg px-4  py-2  my-10 m-auto text-center">
+        <div className="bg-gray-800 p-5 w-full  ">
           <h1 className="mx-5 text-6xl text-primary text-left uppercase ">
             About Us
           </h1>
@@ -30,7 +30,7 @@ const AboutInfo = () => {
                 
                 <a
                   className="bg-primary hover:bg-primaryDark text-white rounded-full  font-semibold p-5 text-xl animate-none"
-                  href="https://gdsc.community.dev/cmr-institute-of-technology-bengaluru/"
+                  href="/team "
                 >
                   Meet Our Team
                 </a>
@@ -50,7 +50,7 @@ const AboutInfo = () => {
             goalText="GDSC CMRIT provides a platform for the growth and advancement of the student community in the field of technology by providing peer-to-peer learning environment."
           />
           <Goal
-            goalImage="/mission-collab-.png"
+            goalImage="/mission_collab.png"
             goalTitle="Collaboration"
             goalText="We are not just a community but a mini India where people from diverse backgrounds,different majors and knowledge come together to collaborate and co-create new innovative ideas."
           />

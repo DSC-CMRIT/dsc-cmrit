@@ -1,12 +1,13 @@
 import React from "react";
 import Header from "../components/Header";
-import Placeholder from "../components/Placeholder";
+import EventTrial from "../components/EventTrial"
+
 
 const events = () => {
   return (
     <div>
       <Header />
-      <Placeholder />
+      <EventTrial />
     </div>
   );
 };

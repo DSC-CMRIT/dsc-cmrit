@@ -145,22 +145,29 @@ export const TEAM_LINKS = [
   },
 ];
 
-export const UPCOMING = [
+export const EVENT_LIST = [
   {
     EventImage: "/Event Images/Android JAM.jpeg",
-    EventName: "Android Study JAM",
-    EventDate: "Dec 2, 2021",
+    EventName: "Android Study JAM 3",
+    EventDate: "Jan 03, 2022",
     EventDescript: "Info-session by Android facilitator",
-  }
-
-];
-
-
-export const EVENT_LIST = [
+  },
+  {
+    EventImage: "/Event Images/Android JAM.jpeg",
+    EventName: "Android Study JAM 2",
+    EventDate: "Dec 29, 2021",
+    EventDescript: "Info-session by Android facilitator",
+  },
+  {
+    EventImage: "/Event Images/Android JAM.jpeg",
+    EventName: "Android Study JAM 1",
+    EventDate: "Dec 02, 2021",
+    EventDescript: "Info-session by Android facilitator",
+  },
   {
     EventImage: "/Event Images/Git for Linux.jpeg",
     EventName: "Git for Linux",
-    EventDate: "Oct 9, 2021",
+    EventDate: "Oct 09, 2021",
     EventDescript: "Virtual Hands-on Workshop",
   },
   {
@@ -168,6 +175,5 @@ export const EVENT_LIST = [
     EventName: "30 Days of Google Cloud",
     EventDate: "Sep 25, 2021",
     EventDescript: "Info-session by Cloud facilitator",
-  }
-  
-]
+  },
+];

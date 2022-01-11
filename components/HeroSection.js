@@ -23,7 +23,7 @@ const HeroSection = () => {
             sameLineText="from"
             nextLineText="DSC CMRIT"
           />
-          <p className="md:w-2/3 w-full block ml-1 my-10">
+          <p className="md:w-2/3 w-full block ml-1 my-10 tracking-wider">
             At GDSC CMRIT, we aim at building solutions & uplifting budding
             developers by providing peer-to-peer learning environment.
           </p>
@@ -46,7 +46,7 @@ const HeroSection = () => {
             </div>
             <div className="mt-4 mx-2">
               <a
-                className="bg-gdscButton hover:bg-gdscButtonDark rounded-full py-2 text-xl px-2 animate-pulse"
+                className="bg-gdscButton hover:bg-gdscButtonDark rounded-full py-2 text-xl px-6 animate-pulse"
                 href="https://gdsc.community.dev/cmr-institute-of-technology-bengaluru/"
               >
                 Join GDSC-CMRIT Chapter!

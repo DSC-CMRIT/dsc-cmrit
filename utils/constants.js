@@ -16,7 +16,7 @@ export const COMMUNITY_LINKS = [
     iconClass: "discord",
     color: "discord",
     darkColor: "discordDark",
-   },
+  },
   {
     href: "https://cmritgdsc.page.link/yt",
     iconClass: "youtube",
@@ -142,5 +142,38 @@ export const TEAM_LINKS = [
       LinkedIn: " https://linkedin.com/in/rijuthmenon",
       Instagram: "https://instagram.com/rijuth",
     },
+  },
+];
+
+export const EVENT_LIST = [
+  {
+    EventImage: "/Event Images/Android JAM.jpeg",
+    EventName: "Android Study JAM 3",
+    EventDate: "Jan 03, 2022",
+    EventDescript: "Info-session by Android facilitator",
+  },
+  {
+    EventImage: "/Event Images/Android JAM.jpeg",
+    EventName: "Android Study JAM 2",
+    EventDate: "Dec 29, 2021",
+    EventDescript: "Info-session by Android facilitator",
+  },
+  {
+    EventImage: "/Event Images/Android JAM.jpeg",
+    EventName: "Android Study JAM 1",
+    EventDate: "Dec 02, 2021",
+    EventDescript: "Info-session by Android facilitator",
+  },
+  {
+    EventImage: "/Event Images/Git for Linux.jpeg",
+    EventName: "Git for Linux",
+    EventDate: "Oct 09, 2021",
+    EventDescript: "Virtual Hands-on Workshop",
+  },
+  {
+    EventImage: "/Event Images/30 Days of Cloud.jpeg",
+    EventName: "30 Days of Google Cloud",
+    EventDate: "Sep 25, 2021",
+    EventDescript: "Info-session by Cloud facilitator",
   },
 ];
